@@ -7,13 +7,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10023646.svg)](https://doi.org/10.5281/zenodo.10023646)
 [![GitHub issues](https://img.shields.io/github/issues/kgudipe/SE_PROJ3.svg)](https://github.com/kgudipe/SE_PROJ3/issues/) 
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/kgudipe/SE_PROJ3.svg)](https://github.com/kgudipe/SE_PROJ3/issues?q=is%3Aissue+is%3Aclosed)
-
 ![example workflow](https://github.com/kgudipe/SE_PROJ3/actions/workflows/style_checker.yml/badge.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/qchen59/ScheduleBot)
-
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/kgudipe/SE_PROJ3)
 ![GitHub top language](https://img.shields.io/github/languages/top/kgudipe/SE_PROJ3)
-
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/A1231/SEProjGrp6-ScheduleBot)
 [![GitHub all releases](https://img.shields.io/github/downloads/SEProjGrp5/ScheduleBot/total)](https://github.com/SEProjGrp5/ScheduleBot/releases)
 ![Contributors](https://img.shields.io/github/contributors/kgudipe/SE_PROJ3)
